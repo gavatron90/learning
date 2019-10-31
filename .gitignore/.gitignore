@@ -1,0 +1,2 @@
+git remote add origin https://github.com/gavatron90/learning.git
+git push -u origin master
